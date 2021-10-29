@@ -1,0 +1,5 @@
+x = rnorm(100)
+x = rnorm(100)
+x = rnorm(100)
+x = rnorm(100)
+print(mean(x))
